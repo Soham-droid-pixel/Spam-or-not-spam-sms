@@ -1,2 +1,2 @@
 # Spam-or-not-spam-sms
-Spam or not spam analysis and prediction by using multiple models
+Spam or not spam sms analysis and detection by using multiple models
